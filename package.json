@@ -29,7 +29,7 @@
     "node": ">=12.10"
   },
   "dependencies": {
-    "aws-sdk": "2.920.0",
+    "aws-sdk": "2.947.0",
     "bluebird": "3.7.2",
     "chalk": "4.1.1",
     "debug": "4.3.1",
